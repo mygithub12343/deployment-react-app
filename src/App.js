@@ -17,6 +17,7 @@ function App() {
         <SectionThree />
         <SectionFour />
         <Footer />
+        <Footer />
       </div>
     </>
   );
